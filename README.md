@@ -39,3 +39,5 @@ This repository contains a Tableau dashboard that visualizes insights from the N
 4. **Create Dashboard**: Use the dataset to create visualizations similar to the shared dashboard.
 5. **Publish to Tableau Public**: Upload your dashboard to Tableau Public and share the link.
 
+[Dashboard](https://github.com/Vighnesh3232/Tableau-Dashboard-Netflix-Analysis/blob/main/NETFLIX%20DASHBOARD.png)
+
